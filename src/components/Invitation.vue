@@ -7,8 +7,8 @@
             <img class="content-inside-photo" src="../images/photo.jpg">
             <p>我们结婚啦！</p>
             <p><b>谭威 & 吴玲</b></p>
-            <p><br>时间：2023年11月18日</br></p>
-            <p>地点：<b>重庆市万州区未来城三峡盛宴孔雀厅（牌楼鸿欧广场、体育路200号</b></p>
+            <p><b>时间：2023年11月18日</b></p>
+            <p>地点：<b>重庆市万州区未来城三峡盛宴孔雀厅（牌楼鸿欧广场、体育路200号）</b></p>
             <div class="content-inside-bless">
               <input
                 placeholder="写下你的祝福" 
